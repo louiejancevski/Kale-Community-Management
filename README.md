@@ -80,7 +80,7 @@ Finally, you can also delete your account as well.
 
 ![](https://github.com/louiejancevski/Kale-Community-Management/blob/master/screenshots/delete-account.png)
 
-Also, if not route matches the one you're looking for, you get presented with a nice 404 page.
+Also, if not route matches the one you're looking for, you get presented with a really nice 404 page.
 
 ![](https://github.com/louiejancevski/Kale-Community-Management/blob/master/screenshots/404.png)
 
