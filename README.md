@@ -55,7 +55,7 @@ You can create posts:
 
 ![](https://github.com/louiejancevski/Kale-Community-Management/blob/master/screenshots/create-post.png)
 
-Each post will have a title and then the post content itself.
+Each post will have a title and the post content itself.
 
 After a post is created, they will appear below the "write a post" form, like this:
 
